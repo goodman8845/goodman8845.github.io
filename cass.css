@@ -1,0 +1,11 @@
+body {;background:
+linear-gradient(45deg, #92baac 45px, transparent 45px)64px 64px,
+linear-gradient(45deg, #92baac 45px, transparent 45px,transparent 91px, #e1ebbd 91px, #e1ebbd 135px, transparent 135px),
+linear-gradient(-45deg, #92baac 23px, transparent 23px, transparent 68px,#92baac 68px,#92baac 113px,transparent 113px,transparent 158px,#92baac 158px);
+background-color:palegreen;
+background-size: 128px 128px;}
+.엄준식 {background-color:rgb(255,228,225);}
+.엄친아 {background-color:rgb(250,128,114);}
+table {border: 3px dashed; border-color:azure; background-color: orange; margin-left: auto; margin-right: auto;}
+th {border: 3px double; background-color: azure; text-align: center;}
+td {border: 3px outset; background-color: azure; text-align: center;}
